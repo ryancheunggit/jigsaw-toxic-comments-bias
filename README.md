@@ -2,7 +2,7 @@
 
 To get in silver zone with one week work. 
 
-```python
+```bash
 python train_bert.py \
     --gpu 0 \
     --model bert-base-uncased \
