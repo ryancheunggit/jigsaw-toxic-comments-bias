@@ -1,6 +1,6 @@
 # jigsaw-toxic-comments-bias
 
-To get in silver zone with one week work. 
+To get in silver zone with one week work(mostly compute, near zero brain power)
 
 ```bash
 python train_bert.py \
